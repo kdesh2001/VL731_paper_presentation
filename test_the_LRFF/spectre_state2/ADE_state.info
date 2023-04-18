@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("testlib" "test_the_LRFF" "schematic" "spectre")
+descriptionText = "None"
